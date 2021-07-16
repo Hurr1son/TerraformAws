@@ -1,0 +1,6 @@
+.aws.swp
+.terraform.lock.hcl
+myKey.pem
+terraform.tfstate
+.terraform/
+terraform.tfstate.backup
